@@ -1,7 +1,7 @@
 {
-    "name": "toddhossack/silverstripe-directory",
+    "name": "jasonloeve/silverstripe-directory",
     "description": "Directory module for SilverStripe",
-    "type": "silverstripe-module",
+    "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
         "cwp"
@@ -9,12 +9,14 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Todd Hossack",
-            "email": "todd@tiraki.com"
+            "name": "Jason Loeve",
+            "email": "jason@weareonfire.co.nz"
         }
     ],
     "require": {
         "php": ">=5.6",
+        "silverstripe/vendor-plugin": "^1",
+        "silverstripe/framework": "^3",
         "silverstripe/recipe-cms": "^4.8.0",
         "zf1/zend-locale": "^1.12",
         "undefinedoffset/sortablegridfield": "^2.0",
