@@ -1,0 +1,10 @@
+  SilverStripe\ORM\DatabaseAdmin:
+  classname_value_remapping:
+    CMDirectoryBusinessEntry: CS\Directory\Models\CMDirectoryBusinessEntry
+    CMDirectoryPersonEntry: CS\Directory\Models\CMDirectoryPersonEntry
+    CMDirectoryBasicEntry: CS\Directory\Models\CMDirectoryBasicEntry
+    CMDirectory: CS\Directory\Models\CMDirectory
+    CMDirectoryCategory: CS\Directory\Models\CMDirectoryCategory
+    CMDirectoryEntry: CS\Directory\Models\CMDirectoryEntry
+    CMDirectoryPage: CS\Directory\CMDirectoryPage
+    CMDirectoryCategoryPage: CS\Directory\CMDirectoryCategoryPage

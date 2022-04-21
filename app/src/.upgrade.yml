@@ -1,0 +1,13 @@
+mappings:
+  CMDirectoryBusinessEntry: CS\Directory\Models\CMDirectoryBusinessEntry
+  CMDirectoryPersonEntry: CS\Directory\Models\CMDirectoryPersonEntry
+  CMDirectoryBasicEntry: CS\Directory\Models\CMDirectoryBasicEntry
+  CMDirectory: CS\Directory\Models\CMDirectory
+  CMDirectoryCategory: CS\Directory\Models\CMDirectoryCategory
+  CMDirectoryEntry: CS\Directory\Models\CMDirectoryEntry
+  CMDirectoryAdmin: CS\Directory\CMDirectoryAdmin
+  CMDirectoryPage: CS\Directory\CMDirectoryPage
+  CMDirectoryPage_Controller: CS\Directory\CMDirectoryPage_Controller
+  CMDirectoryCategoryPage: CS\Directory\CMDirectoryCategoryPage
+  CMDirectoryCategoryPage_Controller: CS\Directory\CMDirectoryCategoryPage_Controller
+  CMDirectoryController: CS\Directory\CMDirectoryController
