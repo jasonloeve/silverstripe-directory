@@ -1,6 +1,6 @@
 <?php
 
-namespace CS\Directory;
+namespace CS\Directory\Pages;
 
 use CS\Directory\Page;
 use CS\Directory\PageController;

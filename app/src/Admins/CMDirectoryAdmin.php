@@ -1,6 +1,6 @@
 <?php
 
-namespace CS\Directory;
+namespace CS\Directory\Admins;
 
 use CS\Directory\Models\CMDirectory;
 use SilverStripe\Admin\ModelAdmin;

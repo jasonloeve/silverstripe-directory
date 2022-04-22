@@ -1,6 +1,6 @@
 <?php
 
-namespace CS\Hauora;
+namespace CS\Directory\Pages;
 
 use CS\Directory\Page;
 use CS\Directory\PageController;
