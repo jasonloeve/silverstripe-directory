@@ -4,7 +4,7 @@ namespace CS\Directory\Pages;
 
 use CS\Directory\Page;
 use CS\Directory\PageController;
-use CS\Directory\CMDirectoryPage;
+use CS\Directory\Pages\CMDirectoryPage;
 use CS\Directory\Models\CMDirectoryCategory;
 use SilverStripe\Forms\TreeDropdownField;
 use SilverStripe\Control\HTTPRequest;

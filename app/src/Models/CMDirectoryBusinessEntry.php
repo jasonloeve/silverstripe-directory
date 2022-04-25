@@ -3,7 +3,6 @@
 namespace CS\Directory\Models;
 
 use Zend_Locale;
-
 use SilverStripe\Forms\HeaderField;
 use SilverStripe\Forms\CheckboxField;
 use SilverStripe\Forms\TimeField;

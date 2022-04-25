@@ -4,7 +4,6 @@ namespace CS\Directory\Models;
 
 use Symbiote\GridFieldExtensions\GridFieldOrderableRows;
 use UndefinedOffset\SortableGridField\Forms\GridFieldSortableRows;
-
 use CS\Directory\Models\CMDirectory;
 use CS\Directory\Models\CMDirectoryEntry;
 use SilverStripe\ORM\Hierarchy\Hierarchy;

@@ -4,11 +4,9 @@ namespace CS\Directory\Models;
 
 use Exception;
 use SilverStripe\Forms\ListBoxField;
-
 use Symbiote\GridFieldExtensions\GridFieldOrderableRows;
 use UndefinedOffset\SortableGridField\Forms\GridFieldSortableRows;
-
-use CS\Directory\Models\CMDirectoryPage;
+use CS\Directory\Pages\CMDirectoryPage;
 use SilverStripe\Forms\TextField;
 use SilverStripe\Core\ClassInfo;
 use SilverStripe\Core\Injector\Injector;

@@ -4,7 +4,7 @@ namespace CS\Directory\Pages;
 
 use CS\Directory\Page;
 use CS\Directory\PageController;
-use CS\Directory\CMDirectoryCategoryPage;
+use CS\Directory\Pages\CMDirectoryCategoryPage;
 use CS\Directory\Models\CMDirectory;
 use SilverStripe\Core\Injector\Injector;
 use SilverStripe\Forms\DropdownField;

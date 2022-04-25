@@ -1,10 +1,9 @@
 <?php
 
-namespace CS\Directory\Controllers;
+namespace CS\Directory;
 
 use SilverStripe\Core\Injector\Injector;
 use Psr\Log\LoggerInterface;
-
 use SilverStripe\Control\HTTPRequest;
 use SilverStripe\ORM\DataList;
 use SilverStripe\Forms\DropdownField;
