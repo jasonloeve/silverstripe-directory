@@ -1,6 +1,6 @@
 <?php
 
-namespace CS\Directory;
+namespace CS\Directory\Controllers;
 
 use SilverStripe\Core\Injector\Injector;
 use Psr\Log\LoggerInterface;
